@@ -1,0 +1,30 @@
+[33mcommit 167a6d4d223873a892ec922e85fea859e69351e9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 351ba92 2f3d589
+Author: diegocalle2209 <diegocalle2209@gmail.com>
+Date:   Wed Apr 29 22:48:08 2020 -0500
+
+    Uniendo la rama 2
+
+[33mcommit 2f3d58903f71d89c0b58311b294230ab38228785[m[33m ([m[1;31morigin/rama2[m[33m, [m[1;32mrama2[m[33m)[m
+Author: diegocalle2209 <diegocalle2209@gmail.com>
+Date:   Wed Apr 29 22:33:17 2020 -0500
+
+    Se agrego la entidad Producto
+
+[33mcommit 351ba92960074a210c8c35a6c68379a6ba179300[m[33m ([m[1;31morigin/rama1[m[33m, [m[1;32mrama1[m[33m)[m
+Author: diegocalle2209 <diegocalle2209@gmail.com>
+Date:   Wed Apr 29 22:27:22 2020 -0500
+
+    Se agrego frmCliente
+
+[33mcommit 2600c0fcc99ed685e1fdea18059019ab65b1fee0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: diegocalle2209 <diegocalle2209@gmail.com>
+Date:   Wed Apr 29 22:09:09 2020 -0500
+
+    Se agrego frase
+
+[33mcommit c59049257fb88a4bc80de889a0b15cda26f0de19[m
+Author: diegocalle2209 <diegocalle2209@gmail.com>
+Date:   Wed Apr 29 22:04:01 2020 -0500
+
+    Mi primer commit
